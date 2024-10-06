@@ -1,0 +1,7 @@
+body{
+    font-size: 18px!important;
+}
+.table th, .table td {
+    font-size: 1rem!important;
+    font-weight: 300!important;
+}
